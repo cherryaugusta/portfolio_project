@@ -89,3 +89,11 @@ This project is created strictly for educational purposes and portfolio demonstr
 • Admin customization
 • User authentication
 • Deployment configuration
+
+---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
